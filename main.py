@@ -1,2 +1,4 @@
 string = input("Enter something: ")
 print(string[::-1])
+print(string.upper())
+print(string.lower())
